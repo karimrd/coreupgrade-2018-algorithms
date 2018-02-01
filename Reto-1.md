@@ -10,6 +10,7 @@ int example(int n)
   return count;
 }
 ```
+Complejidad ....
 
 ## 2. ¿Cual es la complejidad de tiempo de la función example2()?
 
@@ -22,7 +23,9 @@ void example2(int n, int arr[])
             j++;
 }
 ```
+Complejidad ....
 
 ## 3. ¿Cuál es la mejor complejidad de tiempo de bubbleSort?
 
 
+Complejidad ....
